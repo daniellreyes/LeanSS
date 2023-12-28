@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt 
 
 # Cargar datos desde el archivo CSV (asegúrate de tener la ruta correcta al archivo)
-ruta_archivo = 'C:\Users\dani_\OneDrive\Documentos\LeanSS\BB\CASO DE ESTUDIO BLACK BELT 2022\1 FASE DEFINIR'
+ruta_archivo = './Kano_Model.csv'
 datos = pd.read_csv(ruta_archivo)
 
 # Mostrar las primeras filas para comprobar que se han cargado correctamente
