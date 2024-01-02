@@ -1,0 +1,8 @@
+﻿Day,Weeks,Shifts,Worked (hour),Day to produce cassette,Poor quality in cassette,Raw material,Average cassette OoS
+Monday,52,2,8,Yes,5670,509.6,23
+Tuesday,52,2,8,Yes,5670,509.6,23
+Wednesday,52,2,8,No,5670,509.6,23
+Thursday,52,2,8,Yes,5670,509.6,23
+Friday,52,2,8,No,5670,509.6,23
+Saturday,52,2,4,No,5670,509.6,23
+Sunday,52,2,4,No,5670,509.6,23
