@@ -1,4 +1,4 @@
-﻿Person,Attribute,Question_number,Description_positive_ques,Positive_response,Positive_response_number,Description_negative_ques,Negative_response,Negative_response_number
+Person,Attribute,Question_number,Description_positive_ques,Positive_response,Positive_response_number,Description_negative_ques,Negative_response,Negative_response_number,Kano_response
 1,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -6,24 +6,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 1,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 1,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 1,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 1,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -35,13 +35,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I can live that way,4
+would you feel?",I can live that way,4,Indifferent
 1,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 2,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -49,24 +49,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 2,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 2,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 2,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 2,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -78,13 +78,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 2,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 3,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -92,24 +92,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 3,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 3,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 3,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 3,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -121,13 +121,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 3,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 4,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -135,24 +135,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 4,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 4,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 4,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 4,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -164,13 +164,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 4,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 5,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -178,24 +178,24 @@ to the plan,
 How would you feel?",I like it that way,1,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,One-dimensional
 5,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 5,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 5,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 5,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -207,13 +207,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 5,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I can live that way,4
+how would you feel?",I can live that way,4,Indifferent
 6,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -221,24 +221,24 @@ to the plan,
 How would you feel?",I like it that way,1,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,One-dimensional
 6,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 6,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",I am neutral,3,"If the density of the 
 cassette is not correct, 
-how would you feel?",I can live that way,4
+how would you feel?",I can live that way,4,Indifferent
 6,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 6,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -250,13 +250,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 6,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I can live that way,4
+how would you feel?",I can live that way,4,Indifferent
 7,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -264,24 +264,24 @@ to the plan,
 How would you feel?",I like it that way,1,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,One-dimensional
 7,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 7,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",I am neutral,3,"If the density of the 
 cassette is not correct, 
-how would you feel?",I can live that way,4
+how would you feel?",I can live that way,4,Indifferent
 7,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I am neutral,3
+How would you feel?",I am neutral,3,Attractive
 7,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -293,13 +293,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 7,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I dislike it that way,5,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I can live that way,4
+how would you feel?",I can live that way,4,Reverse
 8,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -307,24 +307,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 8,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 8,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 8,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 8,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -336,13 +336,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 8,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 9,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -350,24 +350,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 9,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 9,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 9,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 9,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -379,13 +379,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 9,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 10,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -393,24 +393,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 10,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 10,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 10,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 10,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -422,13 +422,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 10,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 11,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -436,24 +436,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 11,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 11,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 11,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 11,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -465,13 +465,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 11,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 12,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -479,24 +479,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 12,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 12,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 12,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 12,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -508,13 +508,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 12,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 13,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -522,24 +522,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 13,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 13,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 13,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 13,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -551,13 +551,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 13,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 14,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -565,24 +565,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 14,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 14,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 14,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 14,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -594,13 +594,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 14,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 15,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -608,24 +608,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 15,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 15,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 15,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 15,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -637,13 +637,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 15,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 16,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -651,24 +651,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 16,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 16,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 16,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 16,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -680,13 +680,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 16,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 17,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -694,24 +694,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 17,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 17,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 17,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 17,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -723,13 +723,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I am neutral,3
+would you feel?",I am neutral,3,Indifferent
 17,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 18,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -737,24 +737,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 18,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 18,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 18,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 18,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -766,13 +766,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 18,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I am neutral,3,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I am neutral,3
+how would you feel?",I am neutral,3,Indifferent
 19,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -780,24 +780,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 19,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 19,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 19,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 19,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -809,13 +809,13 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 19,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I dislike it that way,5,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I like it that way,1
+how would you feel?",I like it that way,1,Reverse
 20,"Measurements according 
 to the drawing",1,"If the dimensions of 
 the cassette are according 
@@ -823,24 +823,24 @@ to the plan,
 How would you feel?",It should be that way,2,"If the dimensions of 
 the cassette are not 
 according to the plan, 
-How would you feel?",I dislike it that way,5
+How would you feel?",I dislike it that way,5,Must be
 20,"Visualization of the order
 via an app",2,"If there is a Visualization 
 of the order via an app, 
 How would you feel?",I like it that way,1,"If there is not a Visualization 
 of the order via an app, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 20,Correct density,3,"If the density of the 
 cassette is correct, 
 how would you feel?",It should be that way,2,"If the density of the 
 cassette is not correct, 
-how would you feel?",I dislike it that way,5
+how would you feel?",I dislike it that way,5,Must be
 20,"Cassette with quality 
 certificate",4,"If the cassette has a 
 certificate of quality, 
 How would you feel?",I like it that way,1,"If the cassette has not a 
 certificate of quality, 
-How would you feel?",I can live that way,4
+How would you feel?",I can live that way,4,Attractive
 20,"Packaging in different 
 colors depending on 
 the type of density",5,"If the packaging arrives in 
@@ -852,10 +852,10 @@ not arrive in
 different colors 
 depending on the type 
 of density, how would 
-would you feel?",I dislike it that way,5
+would you feel?",I dislike it that way,5,Must be
 20,"Drivers with MEDISA 
 uniforms",6,"If the drivers of the units 
 arrive in the MEDISA uniform, 
 how would you feel?",I like it that way,1,"If the drivers of the units 
 do not arrive in MEDISA uniform, 
-how would you feel?",I like it that way,1
+how would you feel?",I like it that way,1,Questionable

@@ -1,0 +1,681 @@
+Persona,Numero_pregunta,Descripcion_pregunta_pos,Respuesta_pos,Numero_respuesta_pos,Descripcion_pregunta_neg,Respuesta_neg,Numero_respuesta_neg,Respuesta_Kano
+1,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+1,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+1,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Estoy neutral,3,I -> Indifferent
+1,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+1,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Puedo vivir de esa manera,4,I -> Indifferent
+1,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+2,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+2,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+2,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+2,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+2,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+2,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+3,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+3,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+3,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+3,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+3,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+3,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+4,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+4,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+4,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+4,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+4,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Debería de ser de esa forma,2,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+4,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+5,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,O -> One-dimensional
+5,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+5,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+5,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+5,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Debería de ser de esa forma,2,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+5,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Puedo vivir de esa manera,4,I -> Indifferent
+6,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,O -> One-dimensional
+6,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+6,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Estoy neutral,3,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Puedo vivir de esa manera,4,I -> Indifferent
+6,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+6,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+6,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Puedo vivir de esa manera,4,I -> Indifferent
+7,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,O -> One-dimensional
+7,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+7,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Estoy neutral,3,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Puedo vivir de esa manera,4,I -> Indifferent
+7,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Estoy neutral,3,A -> Atractive
+7,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+7,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Me disgusta de esa forma,5,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Puedo vivir de esa manera,4,R -> Reverse
+8,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+8,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+8,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+8,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+8,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+8,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+9,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+9,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+9,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+9,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+9,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+9,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+10,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+10,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+10,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+10,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+10,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+10,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+11,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+11,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+11,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+11,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+11,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+11,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+12,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+12,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+12,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+12,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+12,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+12,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+13,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+13,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+13,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+13,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+13,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+13,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+14,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+14,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+14,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+14,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+14,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+14,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+15,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+15,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+15,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+15,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+15,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+15,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+16,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+16,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+16,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+16,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+16,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+16,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+17,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+17,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+17,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+17,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+17,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Estoy neutral,3,I -> Indifferent
+17,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+18,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+18,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+18,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+18,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+18,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Debería de ser de esa forma,2,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+18,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Estoy neutral,3,I -> Indifferent
+19,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+19,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+19,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+19,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+19,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Debería de ser de esa forma,2,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+19,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Me disgusta de esa forma,5,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Me gusta de esa forma,1,R -> Reverse
+20,1,"Si las medidas del casetón 
+están de acuerdo al plano, 
+¿Cómo te sentirías?",Debería de ser de esa forma,2,"Si las medidas del casetón 
+no están de acuerdo al plano, 
+¿Cómo te sentirías?",Me disgusta de esa forma,5,M -> Must be
+20,2,"Si existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si no existe la Visualización 
+del pedido vía una app, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+20,3,"Si la densidad del casetón 
+es correcta, ¿Cómo te 
+sentirías?",Debería de ser de esa forma,2,"Si la densidad del casetón 
+no es correcta, ¿Cómo te 
+sentirías?",Me disgusta de esa forma,5,M -> Must be
+20,4,"Si el casetón tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Me gusta de esa forma,1,"Si el casetón no tiene un 
+certificado de calidad, 
+¿Cómo te sentirías?",Puedo vivir de esa manera,4,A -> Atractive
+20,5,"Si el empaque llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Debería de ser de esa forma,2,"Si el empaque no llega en 
+diferentes colores 
+dependiendo el tipo 
+de densidad, ¿Cómo 
+te sentirías?",Me disgusta de esa forma,5,M -> Must be
+20,6,"Si los choferes de unidades 
+llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Me gusta de esa forma,1,"Si los choferes de unidades 
+no llegan con el uniforme de 
+MEDISA, ¿Cómo te sentirías?",Me gusta de esa forma,1,Q -> Questionable result
