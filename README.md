@@ -77,5 +77,5 @@
 
 - By emphasizing control measures and documentation, Lean Six Sigma ensures that the benefits of the improvement efforts are enduring, contributing to long-term efficiency and quality within the organization.
 
-> After performing the DOE, you will find again the ** Capability analysis** of the new system with the improvements in order to visualize progress.
+> After performing the DOE, you will find again the **Capability analysis** of the new system with the improvements in order to visualize progress.
 
